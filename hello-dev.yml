@@ -1,3 +1,5 @@
 server:
  port: 6001
+config: 
+ info: this-6001
   
